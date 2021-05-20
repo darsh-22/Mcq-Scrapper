@@ -2,6 +2,10 @@
 
 MCQ-Scrapper is a scrapping tool which helps to scrap MCQ from any sites.
 
+## Flow of code
+
+First need to create a **1.txt** file in which paste the copied HTML content of the site from which you want to scrap the MCQ. Then run the *main.py* file.
+
 ## Modules
 
 ### BeautifulSoup
