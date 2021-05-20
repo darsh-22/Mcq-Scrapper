@@ -8,6 +8,10 @@ MCQ-Scrapper is a scrapping tool which helps to scrap MCQ from any sites.
 
 **Beautiful Soup** is a library that makes it easy to scrape information from web pages. It sits atop an HTML or XML parser, providing Pythonic idioms for iterating, searching, and modifying the parse tree.
 
+```bash
+pip install beautifulsoup4
+```
+
 ### Requests
 
 The **requests** library is the de facto standard for making HTTP requests in Python. It abstracts the complexities of making requests behind a beautiful, simple API so that you can focus on interacting with services and consuming data in your application.
@@ -15,7 +19,6 @@ The **requests** library is the de facto standard for making HTTP requests in Py
 
 ```bash
 pip install requests
-pip install beautifulsoup4
 ```
 
 ## Run code
